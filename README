@@ -1,0 +1,18 @@
+KawaPolska, a polish-enabled version of YanoneKaffesatz
+=============
+
+Repository of KawaPolska, a font based on YanoneKaffesatz, font created by Yanone and released in 2004 under http://creativecommons.org/licenses/by/2.0/de/deed.en
+
+YanoneKaffesatz is a very beautiful font unfortunately it lacks central european diacritics like so many free fonts do. There exists a 2009 commercial edition of YanoneKaffesatz called FF Kava, which is a little different than Kaffesatz, includes CE diacritics, but is also non-free both in terms of price and licence liberty. This is an effort to extend the 2004 free font with polish diacritics. The new name mean "Polish Coffee", in polish. 
+
+I invite everyone out there to join in on the  fun, I am just an amauteur typography enthusiast, so all help is appreciated. Patches with non-polish diacritics are also very welcome. I am using fontforge for editing.
+
+
+TODO
+-------------
+1. Only Regular font done for now, do all the others
+2. Change font name inside font files from YanoneKaffesatz to KawaPolska
+3. Add Polish ligatures, for example łł, st, and perhaps some more experiments like cz/dz/rz/sz/ch
+4. Invite people from other countries to work on their own national diacritics
+
+
